@@ -46,7 +46,11 @@ Timeperiod : 1ms
 |  1          3    |     57.2            |     10.4               |
 |           5      |    57.6             |            13.2        |
 
+### Calculation
+
+<img width="570" height="801" alt="image" src="https://github.com/user-attachments/assets/edb145aa-ee60-496c-9255-8972f8966032" />
+
 **Result:**  
 Attenuation and bending loss characteristics verified.
 
----
+
